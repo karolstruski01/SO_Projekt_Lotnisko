@@ -1,0 +1,32 @@
+# System macOS
+.DS_Store
+
+# Materiały z zajęć (nie zaśmiecają publicznego repozytorium)
+*.pdf
+*.rtf
+
+# Pliki kompilacji C/C++
+*.o
+*.out
+*.x
+build/
+bin/
+
+# Skompilowane programy ćwiczeniowe i projektowe
+cwiczenia/cw1_pid
+cwiczenia/cw2_fork
+cwiczenia/cw3_rodzic
+cwiczenia/cw3_dziecko
+lotnisko
+kontroler
+obsluga_naziemna
+zarzadca
+przyloty
+samolot
+pasazer
+
+# Pliki tymczasowe i logi symulacji
+*.log
+raport*.txt
+logs/
+
