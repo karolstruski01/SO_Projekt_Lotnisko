@@ -13,10 +13,7 @@ build/
 bin/
 
 # Skompilowane programy ćwiczeniowe i projektowe
-cwiczenia/cw1_pid
-cwiczenia/cw2_fork
-cwiczenia/cw3_rodzic
-cwiczenia/cw3_dziecko
+cwiczenia/
 lotnisko
 kontroler
 obsluga_naziemna
@@ -29,4 +26,5 @@ pasazer
 *.log
 raport*.txt
 logs/
+PLAN_DZIALANIA.txt
 
